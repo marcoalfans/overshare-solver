@@ -1,4 +1,4 @@
-# overshare writeup (padat)
+# overshare writeup
 
 Flag: `GEMASTIK19{k3y_fr0m_t3l3m3try_0vsh1_4cr0p4lyps3_l34k}`
 
